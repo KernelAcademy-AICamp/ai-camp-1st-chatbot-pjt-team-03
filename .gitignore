@@ -1,4 +1,9 @@
 .venv/
 .resources/
+
+# macOS system files
+.DS_Store
+
+# 지윤 개인 작업폴더
 jy_venv/
 KJY/
