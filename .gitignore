@@ -1,2 +1,5 @@
-.venv/
-.resources/
+.venv
+.env
+data/
+models/
+__pycache__/

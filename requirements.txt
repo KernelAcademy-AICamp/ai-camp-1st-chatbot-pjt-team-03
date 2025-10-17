@@ -1,0 +1,9 @@
+anthropic
+streamlit
+PyPDF2
+python-dotenv
+fastapi
+torch
+faiss-cpu
+sentence-transformers
+numpy
