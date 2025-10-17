@@ -1,6 +1,6 @@
 anthropic
 streamlit
-PyPDF2
+pdfplumber
 python-dotenv
 fastapi
 torch
